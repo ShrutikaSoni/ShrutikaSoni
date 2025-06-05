@@ -7,10 +7,11 @@ I specialize in building scalable, efficient, and user-friendly web applications
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap  
-- **Backend:** Java, Spring Framework, Hibernate, JWT, Servlets  
+- **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap, Figma
+- **Backend:** Java, Spring Framework, Hibernate, JWT, Servlets,JDBC 
 - **Database:** MySQL  
-- **Version Control:** Git & GitHub  
+- **Version Control:** Git & GitHub
+- **API Integrations**
 
 ---
 

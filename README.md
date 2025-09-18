@@ -1,7 +1,7 @@
 # 👋 Hey There !
 
-🌟 **Full Stack Developer | Java Enthusiast | Passionate Problem Solver**  
-I specialize in building scalable, efficient, and user-friendly web applications. With a strong foundation in **Java, Spring Framework, Hibernate, ReactJS**, and more, I am dedicated to creating seamless digital experiences.
+🌟 **Full Stack Developer | React Developer | Passionate Problem Solver**  
+I specialize in building scalable, efficient, and user-friendly web applications. With a strong foundation in **Java, Spring Framework, Hibernate, ReactJS** and more, I am dedicated to creating seamless digital experiences.
 
 ---
 

@@ -1,55 +1,67 @@
-# 👋 Hey There !
+👋 Hey There !
 
-🌟 **Full Stack Developer | React Developer | Passionate Problem Solver**  
-I specialize in building scalable, efficient, and user-friendly web applications. With a strong foundation in **Java, Spring Framework, Hibernate, ReactJS** and more, I am dedicated to creating seamless digital experiences.
+🌟 Frontend Developer | React Enthusiast | Creative UI/UX Builder
+I specialize in crafting responsive, interactive and user-friendly web applications. With a strong foundation in HTML, CSS, JavaScript, ReactJS and modern UI tools, I am passionate about bringing ideas to life through code and design.
 
----
+🔧 Technologies & Tools
 
-## 🔧 Technologies & Tools
+Frontend: HTML, CSS, JavaScript, ReactJS, Bootstrap, TailwindCSS, Figma
 
-- **Frontend:** HTML, CSS, JavaScript, ReactJS, Bootstrap, Figma
-- **Backend:** Java, Spring Framework, Hibernate, JWT, Servlets,JDBC 
-- **Database:** MySQL  
-- **Version Control:** Git & GitHub
-- **API Integrations**
+State Management: Redux, Context API
 
----
+Version Control: Git & GitHub
 
-## 🚀 What I Do
-- **Develop End-to-End Applications**: From crafting responsive frontends to building secure, scalable backends.
-- **Design APIs**: RESTful APIs for seamless client-server communication.
-- **Collaborate**: Love to work on projects with diverse teams to deliver exceptional results.
-- **Optimize**: Focus on performance and scalability.
+API Integrations: REST APIs, Axios/Fetch
 
----
+Other Tools: VS Code, Postman, NPM
 
-## 🌱 Currently Learning
-I’m diving deeper into **cloud computing**, **microservices**, and enhancing my skills in **ReactJS** and **Spring Boot**.
+🚀 What I Do
 
----
+Build Interactive UIs: Responsive and mobile-first designs with React & CSS frameworks.
 
-## 💻 Featured Projects
+Integrate APIs: Smooth client-side integration with backend services.
 
-### 📱 [Online Mobile E-commerce Billing System](#)
-- **Frontend:** ReactJS  
-- **Backend:** Spring Boot  
-- **Database:** MySQL  
-- A full-featured billing system with product management, payment integration, and reporting.
+Collaborate: Work closely with teams to deliver pixel-perfect user experiences.
 
-### 🧾 [Employee Management System](#)
-- **Technologies:** Java, JDBC, MySQL  
-- Simplifies HR operations with CRUD functionality and data persistence.
+Optimize: Focus on accessibility, performance and scalability.
 
----
+🌱 Currently Learning
 
-## ✨ Fun Facts About Me
-- I love solving complex coding challenges.
-- I enjoy exploring new tech and contributing to open-source projects.
+I’m diving deeper into advanced React patterns, Angular, Next.js and improving my skills in UI/UX design.
 
----
+💻 Featured Projects
+📱 Online Mobile E-commerce Billing System
 
-## 📫 Let's Connect!
-- **Email:** [your-email@example.com](mailto:your-shrutikasoni375@gmail.com)  
-- **LinkedIn:** [[linkedin.com/in/shrutika-soni](https://www.linkedin.com/in/ishrutikasoni/)](#)  
----
-⚡ **"Code is like humor. When you have to explain it, it’s bad."** – Keep coding and keep shining! 🚀
+Tech Stack: ReactJS, Bootstrap, REST APIs
+
+Built a full-featured billing system with product management, cart, payments, and reporting.
+
+🧾 Portfolio Website
+
+Tech Stack: ReactJS, TailwindCSS
+
+Designed and developed a modern, responsive portfolio showcasing skills and projects.
+
+📊 Deep Analysis (Frontend)
+
+Tech Stack: ReactJS, Tailwind CSS, API Integration
+
+Role: Built the entire frontend for an AI-driven data analysis platform.
+
+Developed dynamic dashboards, data visualization components, and a smooth chat-like interface for natural language data interaction.
+
+Integrated APIs to connect with specialized AI agents for deep analysis, business insights, and automated reporting.
+
+Designed interactive reports and visualizations using React + Tailwind CSS for a seamless user experience.
+
+✨ Fun Facts About Me
+
+I love turning complex ideas into simple, user-friendly designs.
+
+Always exploring new frontend libraries and design trends.
+
+📫 Let's Connect!
+
+Email: shrutikasoni375@gmail.com
+
+LinkedIn: linkedin.com/in/ishrutikasoni

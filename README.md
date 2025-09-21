@@ -64,4 +64,5 @@ Always exploring new frontend libraries and design trends.
 
 Email: shrutikasoni375@gmail.com
 
-LinkedIn: linkedin.com/in/ishrutikasoni
+LinkedIn: [linkedin.com/in/ishrutikasoni
+](https://www.linkedin.com/in/ishrutikasoni/)
